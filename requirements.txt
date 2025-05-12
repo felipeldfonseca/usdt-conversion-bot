@@ -1,0 +1,4 @@
+telethon==1.32.1
+ccxt==4.2.15
+redis==5.0.1
+python-dotenv==1.0.1 
